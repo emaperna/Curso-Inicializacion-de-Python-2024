@@ -59,7 +59,6 @@ while True:
     if contador == 6:
         break
 
-#el precio del mañana (pelicula), update (serie)
 
 #Realizar un login que permita ingresar con varios usuarios y  contraseñas.
 
