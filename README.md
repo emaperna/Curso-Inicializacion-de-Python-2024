@@ -1,4 +1,8 @@
-# Curso de Inicialización en Python 🐍🐍
+<div align="center">
+  
+# __*Curso de Inicialización en Python*__ 🐍🐍
+
+</div>
 
 ## 1. Introducción a la programación
 - ¿Qué es la programación y qué podemos hacer con ella?
