@@ -115,9 +115,8 @@ En este laboratorio creamos una inteligencia artificial donde el input es nuestr
 - Juego Cara o Cruz
 - Juego Piedra, papel o tijera
 - Juego Ahorcado
-- Mayordomo
+- Asistente Mayordomo
 
-°Mayordomo
 
 
 
