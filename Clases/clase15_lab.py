@@ -1,4 +1,4 @@
-#APIKEY: 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
+
 from groq import Groq
 import pyttsx3
 
@@ -11,8 +11,7 @@ while True:
         #break (Mas opciones para romper el bucle)
         #False (Mas opciones para romper el bucle)
 
-    usuario = Groq(
-        api_key= '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',)
+    usuario = Groq()
 
     interaccion_chat = usuario.chat.completions.create(
         messages=[

@@ -1,7 +1,7 @@
 # ingresar 4 persona con nombre completo, direccion y edad
 # mostrar los datos de la persona mayo edad y menor edad
-#! en que posicion se cargo
-#* el promedio de edades
+#  en que posicion se cargo
+# el promedio de edades
 
 nombre = input("ingrese el nombre de la persona: ")
 edad = input("ingrese la edad de la persona: ")

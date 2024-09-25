@@ -1,4 +1,3 @@
-#APIKEY: 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
 
 
 import pyttsx3
@@ -40,8 +39,7 @@ while True:
     else:
         continue
     
-    cliente = Groq(
-        api_key= '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',)
+    cliente = Groq()
 
 
 

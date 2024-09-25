@@ -1,8 +1,8 @@
 #Ejercicio Numero 1:
 
-apellido_nombre = "Emanuel Perna"
-email = "emanuelperna@icloud.com"
-telefono = "3385508088" 
+apellido_nombre = ""
+email = ""
+telefono =  ""
 
 print (apellido_nombre)
 print (email)

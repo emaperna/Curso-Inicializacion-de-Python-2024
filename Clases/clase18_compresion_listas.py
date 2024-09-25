@@ -1,4 +1,4 @@
-#APIKEY: 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
+
 
 import pyttsx3
 import speech_recognition as sr
@@ -38,8 +38,7 @@ while True:
     if text == "no" or text == "termina" :
         break
     else:
-        cliente = Groq(
-        api_key= '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',)
+        cliente = Groq()
 
 
 

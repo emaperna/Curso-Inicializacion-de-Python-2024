@@ -3,7 +3,6 @@
 #no les funciona lo hecho! Al final también encontrarán un pequeño repaso por las lineas de codigo nuevas, 
 #como el Whit, Try except y el as.
 
-#APIKEY: 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
 
 from groq import Groq
 import pyttsx3
@@ -33,8 +32,7 @@ while True:
     else:
         continue
     
-    cliente = Groq(
-        api_key= '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',)
+    cliente = Groq()
 
 
 
