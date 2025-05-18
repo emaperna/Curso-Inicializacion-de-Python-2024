@@ -121,8 +121,11 @@ En este laboratorio creamos una inteligencia artificial donde el input es nuestr
 - Juego Ahorcado
 - Asistente Mayordomo
 
+---
 
+**Todo derecho es de Autor,Copyright 2024**
 
+---
 
 
 
