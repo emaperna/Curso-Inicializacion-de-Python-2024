@@ -123,7 +123,8 @@ En este laboratorio creamos una inteligencia artificial donde el input es nuestr
 
 ---
 
-**Todo derecho es de Autor,Copyright 2024**
+## ⚠️ Derechos Reservados  
+**© 2024 - Todos los derechos reservados**
 
 ---
 
